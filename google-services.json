@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784233957486",
+    "project_id": "mymoney-3ea36",
+    "storage_bucket": "mymoney-3ea36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784233957486:android:1f600e77dfb83ce14d7e7f",
+        "android_client_info": {
+          "package_name": "com.example.nuttygeek.robin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784233957486-os1010j1d0djteu7spog2bn5r1382ec5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN95pZPN0575LHXDStj9tQzSdidyM6qzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784233957486-os1010j1d0djteu7spog2bn5r1382ec5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
